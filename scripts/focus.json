@@ -1,0 +1,594 @@
+{
+  "coracao-cena\/coracao-cena-01" : {
+    "by" : "face",
+    "focus" : "28% 35%"
+  },
+  "coracao-cena\/coracao-cena-03" : {
+    "by" : "face",
+    "focus" : "49% 51%"
+  },
+  "coracao-cena\/coracao-cena-06" : {
+    "by" : "face",
+    "focus" : "53% 33%"
+  },
+  "coracao-cena\/coracao-cena-08" : {
+    "by" : "face",
+    "focus" : "48% 21%"
+  },
+  "coracao-cena\/coracao-cena-09" : {
+    "by" : "person",
+    "focus" : "50% 30%"
+  },
+  "coracao-cena\/coracao-cena-11" : {
+    "by" : "face",
+    "focus" : "39% 25%"
+  },
+  "coracao-cena\/coracao-cena-12" : {
+    "by" : "face",
+    "focus" : "47% 47%"
+  },
+  "coracao-cena\/coracao-cena-14" : {
+    "by" : "face",
+    "focus" : "60% 71%"
+  },
+  "coracao-cena\/coracao-cena-16" : {
+    "by" : "face",
+    "focus" : "52% 39%"
+  },
+  "coracao-cena\/coracao-cena-17" : {
+    "by" : "face",
+    "focus" : "42% 29%"
+  },
+  "coracao-cena\/coracao-cena-19" : {
+    "by" : "face",
+    "focus" : "42% 52%"
+  },
+  "coracao-cena\/coracao-cena-20" : {
+    "by" : "face",
+    "focus" : "46% 29%"
+  },
+  "coracao-cena\/coracao-cena-22" : {
+    "by" : "face",
+    "focus" : "69% 45%"
+  },
+  "coracao-cena\/coracao-cena-23" : {
+    "by" : "face",
+    "focus" : "9% 29%"
+  },
+  "coracao-cena\/coracao-cena-24" : {
+    "by" : "face",
+    "focus" : "47% 37%"
+  },
+  "coracao-cena\/coracao-cena-28" : {
+    "by" : "face",
+    "focus" : "38% 53%"
+  },
+  "coracao-cena\/coracao-cena-32" : {
+    "by" : "face",
+    "focus" : "68% 36%"
+  },
+  "coracao-cena\/coracao-cena-42" : {
+    "by" : "salient",
+    "focus" : "45% 44%"
+  },
+  "coracao-cena\/coracao-cena-43" : {
+    "by" : "salient",
+    "focus" : "52% 49%"
+  },
+  "coracao-cena\/coracao-cena-46" : {
+    "by" : "salient",
+    "focus" : "47% 54%"
+  },
+  "coracao-cena\/coracao-cena-49" : {
+    "by" : "salient",
+    "focus" : "50% 43%"
+  },
+  "coracao-cena\/coracao-cena-59" : {
+    "by" : "face",
+    "focus" : "54% 29%"
+  },
+  "coracao-cena\/coracao-cena-63" : {
+    "by" : "face",
+    "focus" : "56% 43%"
+  },
+  "coracao-cena\/coracao-cena-66" : {
+    "by" : "face",
+    "focus" : "57% 33%"
+  },
+  "coracao-cena\/coracao-cena-68" : {
+    "by" : "face",
+    "focus" : "58% 36%"
+  },
+  "coracao-cena\/coracao-cena-71" : {
+    "by" : "face",
+    "focus" : "72% 56%"
+  },
+  "coracao\/coracao-01" : {
+    "by" : "face",
+    "focus" : "64% 34%"
+  },
+  "coracao\/coracao-02" : {
+    "by" : "salient",
+    "focus" : "60% 41%"
+  },
+  "coracao\/coracao-03" : {
+    "by" : "salient",
+    "focus" : "53% 45%"
+  },
+  "coracao\/coracao-04" : {
+    "by" : "salient",
+    "focus" : "53% 44%"
+  },
+  "coracao\/coracao-05" : {
+    "by" : "person",
+    "focus" : "76% 28%"
+  },
+  "curta\/curta-01" : {
+    "by" : "face",
+    "focus" : "61% 45%"
+  },
+  "curta\/curta-02" : {
+    "by" : "face",
+    "focus" : "53% 18%"
+  },
+  "curta\/curta-03" : {
+    "by" : "person",
+    "focus" : "48% 28%"
+  },
+  "curta\/curta-04" : {
+    "by" : "face",
+    "focus" : "68% 36%"
+  },
+  "curta\/curta-05" : {
+    "by" : "salient",
+    "focus" : "56% 48%"
+  },
+  "curta\/curta-06" : {
+    "by" : "person",
+    "focus" : "20% 19%"
+  },
+  "curta\/curta-07" : {
+    "by" : "person",
+    "focus" : "28% 17%"
+  },
+  "curta\/curta-08" : {
+    "by" : "salient",
+    "focus" : "50% 39%"
+  },
+  "fogo-fatuo-ensaio\/fogo-fatuo-ensaio-01" : {
+    "by" : "salient",
+    "focus" : "49% 56%"
+  },
+  "fogo-fatuo-ensaio\/fogo-fatuo-ensaio-02" : {
+    "by" : "salient",
+    "focus" : "55% 46%"
+  },
+  "fogo-fatuo-ensaio\/fogo-fatuo-ensaio-03" : {
+    "by" : "salient",
+    "focus" : "58% 45%"
+  },
+  "fogo-fatuo-ensaio\/fogo-fatuo-ensaio-04" : {
+    "by" : "face",
+    "focus" : "35% 32%"
+  },
+  "fogo-fatuo-ensaio\/fogo-fatuo-ensaio-05" : {
+    "by" : "salient",
+    "focus" : "54% 46%"
+  },
+  "fogo-fatuo-ensaio\/fogo-fatuo-ensaio-06" : {
+    "by" : "person",
+    "focus" : "43% 18%"
+  },
+  "fogo-fatuo-ensaio\/fogo-fatuo-ensaio-07" : {
+    "by" : "person",
+    "focus" : "45% 40%"
+  },
+  "fogo-fatuo-ensaio\/fogo-fatuo-ensaio-08" : {
+    "by" : "person",
+    "focus" : "71% 21%"
+  },
+  "fogo-fatuo-ensaio\/fogo-fatuo-ensaio-09" : {
+    "by" : "person",
+    "focus" : "21% 45%"
+  },
+  "fogo-fatuo\/fogo-fatuo-01" : {
+    "by" : "salient",
+    "focus" : "39% 43%"
+  },
+  "fogo-fatuo\/fogo-fatuo-02" : {
+    "by" : "salient",
+    "focus" : "57% 63%"
+  },
+  "fogo-fatuo\/fogo-fatuo-03" : {
+    "by" : "salient",
+    "focus" : "40% 43%"
+  },
+  "fogo-fatuo\/fogo-fatuo-04" : {
+    "by" : "face",
+    "focus" : "44% 48%"
+  },
+  "fogo-fatuo\/fogo-fatuo-05" : {
+    "by" : "person",
+    "focus" : "43% 22%"
+  },
+  "fogo-fatuo\/fogo-fatuo-06" : {
+    "by" : "person",
+    "focus" : "81% 35%"
+  },
+  "fogo-fatuo\/fogo-fatuo-07" : {
+    "by" : "face",
+    "focus" : "51% 30%"
+  },
+  "fogo-fatuo\/fogo-fatuo-08" : {
+    "by" : "person",
+    "focus" : "51% 22%"
+  },
+  "fogo-fatuo\/fogo-fatuo-09" : {
+    "by" : "salient",
+    "focus" : "51% 48%"
+  },
+  "fogo-fatuo\/fogo-fatuo-10" : {
+    "by" : "face",
+    "focus" : "79% 26%"
+  },
+  "fogo-fatuo\/fogo-fatuo-11" : {
+    "by" : "salient",
+    "focus" : "50% 50%"
+  },
+  "fogo-fatuo\/fogo-fatuo-12" : {
+    "by" : "person",
+    "focus" : "44% 29%"
+  },
+  "fogo-fatuo\/fogo-fatuo-13" : {
+    "by" : "person",
+    "focus" : "43% 22%"
+  },
+  "fogo-fatuo\/fogo-fatuo-14" : {
+    "by" : "face",
+    "focus" : "69% 26%"
+  },
+  "fogo-fatuo\/fogo-fatuo-15" : {
+    "by" : "salient",
+    "focus" : "46% 40%"
+  },
+  "fogo-fatuo\/fogo-fatuo-16" : {
+    "by" : "face",
+    "focus" : "55% 34%"
+  },
+  "fogo-fatuo\/fogo-fatuo-17" : {
+    "by" : "face",
+    "focus" : "26% 37%"
+  },
+  "fogo-fatuo\/fogo-fatuo-18" : {
+    "by" : "person",
+    "focus" : "45% 27%"
+  },
+  "fogo-fatuo\/fogo-fatuo-19" : {
+    "by" : "person",
+    "focus" : "56% 28%"
+  },
+  "fogo-fatuo\/fogo-fatuo-20" : {
+    "by" : "person",
+    "focus" : "49% 24%"
+  },
+  "fogo-fatuo\/fogo-fatuo-21" : {
+    "by" : "salient",
+    "focus" : "48% 53%"
+  },
+  "fogo-fatuo\/fogo-fatuo-22" : {
+    "by" : "face",
+    "focus" : "57% 56%"
+  },
+  "fogo-fatuo\/fogo-fatuo-23" : {
+    "by" : "salient",
+    "focus" : "50% 51%"
+  },
+  "fogo-fatuo\/fogo-fatuo-24" : {
+    "by" : "person",
+    "focus" : "49% 28%"
+  },
+  "fogo-fatuo\/fogo-fatuo-25" : {
+    "by" : "person",
+    "focus" : "46% 32%"
+  },
+  "fogo-fatuo\/fogo-fatuo-26" : {
+    "by" : "face",
+    "focus" : "45% 37%"
+  },
+  "fogo-fatuo\/fogo-fatuo-27" : {
+    "by" : "person",
+    "focus" : "39% 52%"
+  },
+  "fogo-fatuo\/fogo-fatuo-28" : {
+    "by" : "person",
+    "focus" : "21% 46%"
+  },
+  "fogo-fatuo\/fogo-fatuo-29" : {
+    "by" : "salient",
+    "focus" : "42% 39%"
+  },
+  "fogo-fatuo\/fogo-fatuo-30" : {
+    "by" : "salient",
+    "focus" : "46% 55%"
+  },
+  "fogo-fatuo\/fogo-fatuo-31" : {
+    "by" : "salient",
+    "focus" : "52% 57%"
+  },
+  "misc\/dsc0783-copia-medium" : {
+    "by" : "person",
+    "focus" : "56% 28%"
+  },
+  "misc\/foto-1" : {
+    "by" : "salient",
+    "focus" : "50% 40%"
+  },
+  "misc\/nucelo-card" : {
+    "by" : "person",
+    "focus" : "13% 48%"
+  },
+  "misc\/patriciamoreiraperfil" : {
+    "by" : "face",
+    "focus" : "51% 54%"
+  },
+  "misc\/secretum-54-de-54-scaled" : {
+    "by" : "person",
+    "focus" : "44% 41%"
+  },
+  "misc\/whatsapp-image-2021-10-11-at-16-38-13" : {
+    "by" : "face",
+    "focus" : "38% 54%"
+  },
+  "nucleo-ensaio\/nucleo-ensaio-01" : {
+    "by" : "face",
+    "focus" : "44% 40%"
+  },
+  "nucleo-ensaio\/nucleo-ensaio-02" : {
+    "by" : "face",
+    "focus" : "45% 25%"
+  },
+  "nucleo-ensaio\/nucleo-ensaio-03" : {
+    "by" : "face",
+    "focus" : "30% 43%"
+  },
+  "nucleo-ensaio\/nucleo-ensaio-04" : {
+    "by" : "face",
+    "focus" : "46% 28%"
+  },
+  "nucleo-ensaio\/nucleo-ensaio-05" : {
+    "by" : "face",
+    "focus" : "40% 44%"
+  },
+  "nucleo-ensaio\/nucleo-ensaio-06" : {
+    "by" : "face",
+    "focus" : "62% 24%"
+  },
+  "nucleo-ensaio\/nucleo-ensaio-07" : {
+    "by" : "face",
+    "focus" : "41% 46%"
+  },
+  "nucleo-ensaio\/nucleo-ensaio-08" : {
+    "by" : "face",
+    "focus" : "50% 37%"
+  },
+  "nucleo\/nucleo-01" : {
+    "by" : "person",
+    "focus" : "12% 71%"
+  },
+  "nucleo\/nucleo-02" : {
+    "by" : "salient",
+    "focus" : "50% 60%"
+  },
+  "nucleo\/nucleo-03" : {
+    "by" : "face",
+    "focus" : "49% 49%"
+  },
+  "nucleo\/nucleo-04" : {
+    "by" : "face",
+    "focus" : "58% 46%"
+  },
+  "nucleo\/nucleo-05" : {
+    "by" : "person",
+    "focus" : "64% 41%"
+  },
+  "nucleo\/nucleo-06" : {
+    "by" : "face",
+    "focus" : "48% 53%"
+  },
+  "nucleo\/nucleo-07" : {
+    "by" : "face",
+    "focus" : "49% 56%"
+  },
+  "nucleo\/nucleo-08" : {
+    "by" : "face",
+    "focus" : "55% 51%"
+  },
+  "nucleo\/nucleo-09" : {
+    "by" : "face",
+    "focus" : "42% 42%"
+  },
+  "nucleo\/nucleo-10" : {
+    "by" : "person",
+    "focus" : "49% 49%"
+  },
+  "nucleo\/nucleo-11" : {
+    "by" : "person",
+    "focus" : "49% 42%"
+  },
+  "nucleo\/nucleo-12" : {
+    "by" : "face",
+    "focus" : "40% 30%"
+  },
+  "nucleo\/nucleo-13" : {
+    "by" : "face",
+    "focus" : "32% 39%"
+  },
+  "nucleo\/nucleo-14" : {
+    "by" : "face",
+    "focus" : "44% 41%"
+  },
+  "nucleo\/nucleo-15" : {
+    "by" : "person",
+    "focus" : "89% 18%"
+  },
+  "nucleo\/nucleo-16" : {
+    "by" : "person",
+    "focus" : "27% 62%"
+  },
+  "nucleo\/nucleo-17" : {
+    "by" : "salient",
+    "focus" : "52% 58%"
+  },
+  "nucleo\/nucleo-18" : {
+    "by" : "person",
+    "focus" : "49% 46%"
+  },
+  "nucleo\/nucleo-19" : {
+    "by" : "person",
+    "focus" : "51% 47%"
+  },
+  "nucleo\/nucleo-20" : {
+    "by" : "face",
+    "focus" : "56% 24%"
+  },
+  "nucleo\/nucleo-21" : {
+    "by" : "face",
+    "focus" : "48% 40%"
+  },
+  "nucleo\/nucleo-22" : {
+    "by" : "salient",
+    "focus" : "47% 48%"
+  },
+  "nucleo\/nucleo-23" : {
+    "by" : "face",
+    "focus" : "49% 39%"
+  },
+  "nucleo\/nucleo-24" : {
+    "by" : "face",
+    "focus" : "48% 41%"
+  },
+  "nucleo\/nucleo-25" : {
+    "by" : "face",
+    "focus" : "48% 41%"
+  },
+  "nucleo\/nucleo-26" : {
+    "by" : "face",
+    "focus" : "51% 45%"
+  },
+  "nucleo\/nucleo-27" : {
+    "by" : "face",
+    "focus" : "45% 24%"
+  },
+  "nucleo\/nucleo-28" : {
+    "by" : "face",
+    "focus" : "46% 26%"
+  },
+  "nucleo\/nucleo-29" : {
+    "by" : "face",
+    "focus" : "51% 59%"
+  },
+  "nucleo\/nucleo-30" : {
+    "by" : "salient",
+    "focus" : "51% 36%"
+  },
+  "nucleo\/nucleo-31" : {
+    "by" : "face",
+    "focus" : "27% 16%"
+  },
+  "secretum\/secretum-01" : {
+    "by" : "person",
+    "focus" : "44% 41%"
+  },
+  "secretum\/secretum-02" : {
+    "by" : "person",
+    "focus" : "77% 16%"
+  },
+  "secretum\/secretum-03" : {
+    "by" : "salient",
+    "focus" : "49% 46%"
+  },
+  "secretum\/secretum-04" : {
+    "by" : "person",
+    "focus" : "62% 16%"
+  },
+  "secretum\/secretum-05" : {
+    "by" : "person",
+    "focus" : "53% 52%"
+  },
+  "secretum\/secretum-06" : {
+    "by" : "salient",
+    "focus" : "62% 43%"
+  },
+  "secretum\/secretum-07" : {
+    "by" : "salient",
+    "focus" : "45% 47%"
+  },
+  "secretum\/secretum-08" : {
+    "by" : "person",
+    "focus" : "71% 27%"
+  },
+  "secretum\/secretum-09" : {
+    "by" : "salient",
+    "focus" : "48% 56%"
+  },
+  "secretum\/secretum-10" : {
+    "by" : "salient",
+    "focus" : "60% 39%"
+  },
+  "secretum\/secretum-11" : {
+    "by" : "salient",
+    "focus" : "46% 45%"
+  },
+  "secretum\/secretum-12" : {
+    "by" : "salient",
+    "focus" : "52% 40%"
+  },
+  "secretum\/secretum-13" : {
+    "by" : "person",
+    "focus" : "60% 27%"
+  },
+  "secretum\/secretum-14" : {
+    "by" : "person",
+    "focus" : "80% 30%"
+  },
+  "secretum\/secretum-15" : {
+    "by" : "salient",
+    "focus" : "49% 47%"
+  },
+  "secretum\/secretum-16" : {
+    "by" : "person",
+    "focus" : "36% 27%"
+  },
+  "secretum\/secretum-17" : {
+    "by" : "person",
+    "focus" : "61% 18%"
+  },
+  "secretum\/secretum-18" : {
+    "by" : "salient",
+    "focus" : "40% 44%"
+  },
+  "secretum\/secretum-19" : {
+    "by" : "person",
+    "focus" : "56% 43%"
+  },
+  "secretum\/secretum-20" : {
+    "by" : "person",
+    "focus" : "72% 24%"
+  },
+  "secretum\/secretum-21" : {
+    "by" : "salient",
+    "focus" : "54% 44%"
+  },
+  "secretum\/secretum-22" : {
+    "by" : "person",
+    "focus" : "42% 33%"
+  },
+  "secretum\/secretum-23" : {
+    "by" : "salient",
+    "focus" : "49% 36%"
+  },
+  "secretum\/secretum-24" : {
+    "by" : "face",
+    "focus" : "75% 17%"
+  }
+}

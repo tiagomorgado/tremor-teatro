@@ -1,0 +1,102 @@
+# Apache / cPanel hosting for the static build (copy the contents of build/client to the web root).
+#
+# Canonical URLs are  https://tremorteatro.pt/<page>/  (no www, trailing slash, like the old
+# WordPress site). Everything else is redirected there in a single 301 hop.
+
+ErrorDocument 404 /404.html
+DirectorySlash Off
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # 0. Never serve hidden files or folders (.env, .git, .DS_Store…) if one is ever uploaded.
+  RewriteRule (^|/)\.(?!well-known/) - [F,L]
+
+  # 1. WordPress endpoints that no longer exist: 410 Gone (tells search engines and bots to stop).
+  RewriteRule ^(wp-admin|wp-includes|wp-json|wp-login\.php|xmlrpc\.php|feed|comments/feed)(/.*)?$ - [G,L]
+
+  # 2. Old WordPress pages that were merged or removed: 301 straight to their new home
+  #    (before the HTTPS rule, so http://www.../agenda is still a single hop).
+  RewriteRule ^(tremor-teatro|home2)/?$ https://tremorteatro.pt/ [R=301,L]
+  RewriteRule ^agenda/?$ https://tremorteatro.pt/criacoes/ [R=301,L]
+  RewriteRule ^(audio-blog|pensamento-reflexao-fogo-fatuo)/?$ https://tremorteatro.pt/pensamento/ [R=301,L]
+  RewriteRule ^secretum-privado/?$ https://tremorteatro.pt/secretum/ [R=301,L]
+  RewriteRule ^fogo-fatua-espetaculo-teatro-privado/?$ https://tremorteatro.pt/fogo-fatuo/ [R=301,L]
+  RewriteRule ^fogo-fatuo-curta-metragem-privado/?$ https://tremorteatro.pt/fogo-fatuo-curta-metragem/ [R=301,L]
+  #    Gallery-plugin pages: each to its own gallery; anything else from the plugin to /galeria/.
+  RewriteRule ^pgc_simply_gallery/e-se-o-meu-coracao-parar/?$ https://tremorteatro.pt/galeria-o-meu-coracao/ [R=301,L]
+  RewriteRule ^pgc_simply_gallery/o-meu-coracao/?$ https://tremorteatro.pt/galeria-o-meu-coracao-criacao/ [R=301,L]
+  RewriteRule ^pgc_simply_gallery/(fogo-fatuo|fogo-fatuo-curta-metragem|nucleo-estatico|nucleo-estatico-ensaio|secretum)/?$ https://tremorteatro.pt/galeria-$1/ [R=301,L]
+  RewriteRule ^pgc_simply_gallery(/.*)?$ https://tremorteatro.pt/galeria/ [R=301,L]
+  RewriteRule ^author(/.*)?$ https://tremorteatro.pt/ [R=301,L]
+  RewriteRule ^not-found/?$ - [R=404,L]
+  #    ?p=123 / ?page_id=123 style links: home, without the query string.
+  RewriteCond %{QUERY_STRING} (^|&)(p|page_id|cat|attachment_id)=
+  RewriteRule ^$ https://tremorteatro.pt/ [R=301,L,QSD]
+
+  # 3. HTTPS, the bare domain and the trailing slash, in ONE 301 hop.
+  #    X-Forwarded-Proto covers hosts that terminate TLS at a proxy (common on cPanel/CDNs).
+  #    Every redirect target is absolute https://tremorteatro.pt/... so a proxy can't add a hop.
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+  RewriteRule ^ - [E=FIX_SCHEME:1]
+  RewriteCond %{HTTP_HOST} !^tremorteatro\.pt$ [NC]
+  RewriteRule ^ - [E=FIX_HOST:1]
+  RewriteCond %{REQUEST_URI} !/$
+  RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}/index.html -f
+  RewriteRule ^ - [E=FIX_SLASH:/]
+  RewriteCond %{ENV:FIX_SCHEME}%{ENV:FIX_HOST}%{ENV:FIX_SLASH} !^$
+  RewriteRule ^ https://tremorteatro.pt%{REQUEST_URI}%{ENV:FIX_SLASH} [R=301,L,NE]
+
+  # 4. Serve /fogo-fatuo/ from /fogo-fatuo/index.html.
+  RewriteCond %{REQUEST_URI} /$
+  RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}index.html -f
+  RewriteRule ^ %{REQUEST_URI}index.html [L]
+</IfModule>
+
+<IfModule mod_dir.c>
+  DirectoryIndex index.html
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType image/avif .avif
+  AddType image/webp .webp
+  AddType font/woff2 .woff2
+  AddType application/manifest+json .webmanifest
+  AddDefaultCharset utf-8
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript text/javascript application/json image/svg+xml application/xml text/xml text/plain application/manifest+json
+</IfModule>
+
+<IfModule mod_headers.c>
+  # Hashed build assets never change.
+  <If "%{REQUEST_URI} =~ m#^/assets/#">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </If>
+  # Photography and share images: long cache, revalidate if replaced.
+  <If "%{REQUEST_URI} =~ m#^/(media|og)/#">
+    Header set Cache-Control "public, max-age=2592000"
+  </If>
+  <FilesMatch "\.(html|xml|txt)$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+
+  # Security headers. The CSP only allows our own scripts/styles/images/requests (the contact
+  # form posts to our own enviar-mensagem.php) and YouTube's privacy-enhanced player. If
+  # VITE_FORM_ENDPOINT points at an outside service, the build adds its origin to connect-src.
+  # 'unsafe-inline' is required for the pre-rendered React Router hydration scripts.
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-src https://www.youtube-nocookie.com; media-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'; upgrade-insecure-requests"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()"
+  # Pages opened from this site (or that open it) can't reach back into it via window.opener.
+  Header always set Cross-Origin-Opener-Policy "same-origin"
+  Header always set X-Permitted-Cross-Domain-Policies "none"
+  Header always unset X-Powered-By
+  # HSTS: browsers remember to use HTTPS for a year. Only sent over HTTPS.
+  Header always set Strict-Transport-Security "max-age=31536000" "expr=%{HTTPS} == 'on' || %{HTTP:X-Forwarded-Proto} == 'https'"
+</IfModule>

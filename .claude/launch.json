@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "tremor-dev", "runtimeExecutable": "npm", "runtimeArgs": ["run", "dev"], "port": 5173 },
+    { "name": "tremor-preview", "runtimeExecutable": "npx", "runtimeArgs": ["serve", "build/client", "-l", "4173"], "port": 4173 }
+  ]
+}

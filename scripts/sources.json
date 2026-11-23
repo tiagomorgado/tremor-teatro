@@ -1,0 +1,622 @@
+[
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/1-min.jpg",
+  "name": "nucleo-01"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/2-min.jpg",
+  "name": "nucleo-02"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/3-min.jpg",
+  "name": "nucleo-03"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/4-min.jpg",
+  "name": "nucleo-04"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/5-min.jpg",
+  "name": "nucleo-05"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/6-min.jpg",
+  "name": "nucleo-06"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/7-min.jpg",
+  "name": "nucleo-07"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/8-min.jpg",
+  "name": "nucleo-08"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/1.jpg",
+  "name": "nucleo-09"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/2.jpg",
+  "name": "nucleo-10"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/3.jpg",
+  "name": "nucleo-11"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/4.jpg",
+  "name": "nucleo-12"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/5.jpg",
+  "name": "nucleo-13"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/6.jpg",
+  "name": "nucleo-14"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/7.jpg",
+  "name": "nucleo-15"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/8.jpg",
+  "name": "nucleo-16"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/9.jpg",
+  "name": "nucleo-17"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/10.jpg",
+  "name": "nucleo-18"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/11.jpg",
+  "name": "nucleo-19"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/12.jpg",
+  "name": "nucleo-20"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/13.jpg",
+  "name": "nucleo-21"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/14.jpg",
+  "name": "nucleo-22"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/15.jpg",
+  "name": "nucleo-23"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/16.jpg",
+  "name": "nucleo-24"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/17.jpg",
+  "name": "nucleo-25"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/18.jpg",
+  "name": "nucleo-26"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/19.jpg",
+  "name": "nucleo-27"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/20.jpg",
+  "name": "nucleo-28"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/21.jpg",
+  "name": "nucleo-29"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/22.jpg",
+  "name": "nucleo-30"
+ },
+ {
+  "set": "nucleo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/23.jpg",
+  "name": "nucleo-31"
+ },
+ {
+  "set": "nucleo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/IMG_5642-min.jpg",
+  "name": "nucleo-ensaio-01"
+ },
+ {
+  "set": "nucleo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/IMG_5695-min.jpg",
+  "name": "nucleo-ensaio-02"
+ },
+ {
+  "set": "nucleo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/IMG_5692-min.jpg",
+  "name": "nucleo-ensaio-03"
+ },
+ {
+  "set": "nucleo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/IMG_5750-min.jpg",
+  "name": "nucleo-ensaio-04"
+ },
+ {
+  "set": "nucleo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/IMG_5648-min.jpg",
+  "name": "nucleo-ensaio-05"
+ },
+ {
+  "set": "nucleo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/IMG_5738-min.jpg",
+  "name": "nucleo-ensaio-06"
+ },
+ {
+  "set": "nucleo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/IMG_6011-min.jpg",
+  "name": "nucleo-ensaio-07"
+ },
+ {
+  "set": "nucleo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/IMG_6023-min.jpg",
+  "name": "nucleo-ensaio-08"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/mascara-javali-Medium.jpg",
+  "name": "fogo-fatuo-01"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Imagen-general-con-paja-Medium.jpg",
+  "name": "fogo-fatuo-02"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/36-Medium.jpg",
+  "name": "fogo-fatuo-03"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/33-Medium.jpg",
+  "name": "fogo-fatuo-04"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/30-Medium.jpg",
+  "name": "fogo-fatuo-05"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/26-Medium.jpg",
+  "name": "fogo-fatuo-06"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/21-Medium.jpg",
+  "name": "fogo-fatuo-07"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/19-Medium.jpg",
+  "name": "fogo-fatuo-08"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/17-Medium.jpg",
+  "name": "fogo-fatuo-09"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/13-Medium.jpg",
+  "name": "fogo-fatuo-10"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/12-Medium.jpg",
+  "name": "fogo-fatuo-11"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/8-Medium.jpg",
+  "name": "fogo-fatuo-12"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/7-Medium.jpg",
+  "name": "fogo-fatuo-13"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/3-Medium.jpg",
+  "name": "fogo-fatuo-14"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/1-Medium.jpg",
+  "name": "fogo-fatuo-15"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0879-copia-Medium.jpg",
+  "name": "fogo-fatuo-16"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0865-copia-Medium.jpg",
+  "name": "fogo-fatuo-17"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0807-copia-Medium.jpg",
+  "name": "fogo-fatuo-18"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0783-copia-Medium.jpg",
+  "name": "fogo-fatuo-19"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0572-Medium.jpg",
+  "name": "fogo-fatuo-20"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0549-Medium-rotated.jpg",
+  "name": "fogo-fatuo-21"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0539-Medium.jpg",
+  "name": "fogo-fatuo-22"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0487-copia-Medium.jpg",
+  "name": "fogo-fatuo-23"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0367-copia-Medium.jpg",
+  "name": "fogo-fatuo-24"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0315-copia-Medium.jpg",
+  "name": "fogo-fatuo-25"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0237-copia-Medium.jpg",
+  "name": "fogo-fatuo-26"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0145-copia-Medium.jpg",
+  "name": "fogo-fatuo-27"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0112-copia-Medium.jpg",
+  "name": "fogo-fatuo-28"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0097-copia-Medium.jpg",
+  "name": "fogo-fatuo-29"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0042-copia-Medium.jpg",
+  "name": "fogo-fatuo-30"
+ },
+ {
+  "set": "fogo-fatuo",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0030-copia-2-Medium.jpg",
+  "name": "fogo-fatuo-31"
+ },
+ {
+  "set": "fogo-fatuo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/WhatsApp-Image-2021-09-11-at-12.47.59-2-min.jpeg",
+  "name": "fogo-fatuo-ensaio-01"
+ },
+ {
+  "set": "fogo-fatuo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/WhatsApp-Image-2021-09-11-at-12.47.58-4-min.jpeg",
+  "name": "fogo-fatuo-ensaio-02"
+ },
+ {
+  "set": "fogo-fatuo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/WhatsApp-Image-2021-09-11-at-12.47.58-2-min.jpeg",
+  "name": "fogo-fatuo-ensaio-03"
+ },
+ {
+  "set": "fogo-fatuo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/WhatsApp-Image-2021-09-11-at-12.47.54-min.jpeg",
+  "name": "fogo-fatuo-ensaio-04"
+ },
+ {
+  "set": "fogo-fatuo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/WhatsApp-Image-2021-09-11-at-12.47.54-2-min.jpeg",
+  "name": "fogo-fatuo-ensaio-05"
+ },
+ {
+  "set": "fogo-fatuo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/WhatsApp-Image-2021-09-11-at-12.47.54-1-min.jpeg",
+  "name": "fogo-fatuo-ensaio-06"
+ },
+ {
+  "set": "fogo-fatuo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/WhatsApp-Image-2021-09-08-at-18.03.27-min.jpeg",
+  "name": "fogo-fatuo-ensaio-07"
+ },
+ {
+  "set": "fogo-fatuo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/WhatsApp-Image-2021-09-08-at-18.03.27-1-min.jpeg",
+  "name": "fogo-fatuo-ensaio-08"
+ },
+ {
+  "set": "fogo-fatuo-ensaio",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/WhatsApp-Image-2021-09-08-at-18.03.25-min.jpeg",
+  "name": "fogo-fatuo-ensaio-09"
+ },
+ {
+  "set": "curta",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/04/Alinhamento2.00_23_43_35.Still025.jpg",
+  "name": "curta-01"
+ },
+ {
+  "set": "curta",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/04/Alinhamento2.00_22_16_22.Still022.jpg",
+  "name": "curta-02"
+ },
+ {
+  "set": "curta",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/04/Alinhamento2.00_16_05_27.Still019.jpg",
+  "name": "curta-03"
+ },
+ {
+  "set": "curta",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/04/Alinhamento2.00_14_37_19.Still015.jpg",
+  "name": "curta-04"
+ },
+ {
+  "set": "curta",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/04/Alinhamento2.00_12_27_37.Still014.jpg",
+  "name": "curta-05"
+ },
+ {
+  "set": "curta",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/04/Alinhamento2.00_03_15_18.Still008.jpg",
+  "name": "curta-06"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Cartaz-Medium.jpg",
+  "name": "secretum-01"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-2-de-62-Medium.jpg",
+  "name": "secretum-02"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-5-de-62-Medium.jpg",
+  "name": "secretum-03"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-7-de-62-Medium.jpg",
+  "name": "secretum-04"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-12-de-62-Medium.jpg",
+  "name": "secretum-05"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum-16-de-54-Medium.jpg",
+  "name": "secretum-06"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-17-de-62-Medium.jpg",
+  "name": "secretum-07"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-20-de-62-Medium.jpg",
+  "name": "secretum-08"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-21-de-62-Medium.jpg",
+  "name": "secretum-09"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-23-de-62-Medium.jpg",
+  "name": "secretum-10"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-24-de-62-Medium.jpg",
+  "name": "secretum-11"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum-27-de-54-Medium.jpg",
+  "name": "secretum-12"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum-31-de-54-Medium.jpg",
+  "name": "secretum-13"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum-34-de-54-Medium.jpg",
+  "name": "secretum-14"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum-39-de-54-Medium.jpg",
+  "name": "secretum-15"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-42-de-62-Medium.jpg",
+  "name": "secretum-16"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum-44-de-54-Medium.jpg",
+  "name": "secretum-17"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum-46-de-54-Medium.jpg",
+  "name": "secretum-18"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/Secretum-47-de-62-Medium.jpg",
+  "name": "secretum-19"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum_reedit_v2-1-de-5-Medium.jpg",
+  "name": "secretum-20"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum_reedit_v2-3-de-12-Medium.jpg",
+  "name": "secretum-21"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum_reedit_v2-4-de-5-Medium.jpg",
+  "name": "secretum-22"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum_reedit_v2-5-de-5-Medium.jpg",
+  "name": "secretum-23"
+ },
+ {
+  "set": "secretum",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/secretum_reedit_v2-12-de-12-Medium.jpg",
+  "name": "secretum-24"
+ },
+ {
+  "set": "coracao",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/08/FOTO-2.jpg",
+  "name": "coracao-01"
+ },
+ {
+  "set": "coracao",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/08/FOTO-3.jpg",
+  "name": "coracao-02"
+ },
+ {
+  "set": "coracao",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/08/FOTO-4.jpg",
+  "name": "coracao-03"
+ },
+ {
+  "set": "coracao",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/08/FOTO-5.jpg",
+  "name": "coracao-04"
+ },
+ {
+  "set": "coracao",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/08/FOTO-6.jpg",
+  "name": "coracao-05"
+ },
+ {
+  "set": "misc",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2021/08/secretum-54-de-54-scaled.jpg",
+  "name": "secretum-54-de-54-scaled"
+ },
+ {
+  "set": "misc",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/nucelo-card.jpg",
+  "name": "nucelo-card"
+ },
+ {
+  "set": "misc",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/08/FOTO-1.jpg",
+  "name": "foto-1"
+ },
+ {
+  "set": "misc",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/04/WhatsApp-Image-2021-10-11-at-16.38.13.jpeg",
+  "name": "whatsapp-image-2021-10-11-at-16-38-13"
+ },
+ {
+  "set": "misc",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2025/12/PatriciaMoreiraPerfil.jpg",
+  "name": "patriciamoreiraperfil"
+ },
+ {
+  "set": "misc",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/07/DSC0783-copia-Medium.jpg",
+  "name": "dsc0783-copia-medium"
+ },
+ {
+  "set": "misc",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2022/04/Print-evento-1.jpg",
+  "name": "print-evento-1"
+ },
+ {
+  "set": "logos",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/11/Barra-de-Logos-Branco_final.png",
+  "name": "barra-de-logos-branco-final"
+ },
+ {
+  "set": "logos",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2023/12/barra_logos_fogo_fatuo_.png",
+  "name": "barra-logos-fogo-fatuo"
+ },
+ {
+  "set": "logos",
+  "url": "https://tremorteatro.pt/wp-content/uploads/2024/01/Logos_Secretum_Branco_Site.png",
+  "name": "logos-secretum-branco-site"
+ }
+]
